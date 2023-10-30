@@ -15,7 +15,7 @@
 //   }
 // }
 impl Solution {
-    pub fn merge_two_lists(
+    pub fn merge_twefweqfwqfwo_lists(
         l1: Option<Box<ListNode>>,
         l2: Option<Box<ListNode>>,
     ) -> Option<Box<ListNode>> {
